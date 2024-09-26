@@ -1,0 +1,1 @@
+[11-May-2024 22:05:59 Europe/Berlin] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/x8yo9jnocbz5/public_html/fenalter.codedazzler.com/vendor/mck89/peast/lib/Peast/Syntax/Scanner.php on line 550
